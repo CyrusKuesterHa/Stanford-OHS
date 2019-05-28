@@ -61,8 +61,8 @@ if s == 'ok':
         else:
             print('Try again next time!')
         print('How about this: guess the math answers:')
-        numA = (3009)
-        numB = (1507)
+        numA = random()
+        numB = random()
         print("Multiply:")
         print(numA)
         print('times')
